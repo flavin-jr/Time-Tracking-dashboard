@@ -5,6 +5,10 @@
   font-family: "Rubik", sans-serif;
 }
 
+button[active] {
+  color: white !important;
+}
+
 body {
   background-color: #0E1323;
   max-width: 1440px;
@@ -123,7 +127,6 @@ body {
 }
 .user-activities-cards .user-activity {
   border-radius: 15px;
-  background-color: #FF8B64;
   width: 255px;
 }
 @media (max-width: 500px) {
