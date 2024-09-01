@@ -39,7 +39,7 @@
   },
   {
     "title": "Study",
-    "color": "#F04667",
+    "color": "#FF5E7D",
     "iconPath": "images/icon-study.svg",
     "timeframes": {
       "daily": {
@@ -58,7 +58,7 @@
   },
   {
     "title": "Exercise",
-    "color": "#29BA66",
+    "color": "#4BCF82",
     "iconPath": "images/icon-exercise.svg",
     "timeframes": {
       "daily": {
