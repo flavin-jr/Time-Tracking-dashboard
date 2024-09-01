@@ -23,7 +23,7 @@ const createItem = (item, option) => {
   </div>`;
     activitiesDashboard.appendChild(activitieDiv);
 }
-const data = fetch('/data.json').then((response) => {
+const data = fetch('./data.json').then((response) => {
     return response.json();
 }).then((data) => {
 
